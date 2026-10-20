@@ -37,3 +37,11 @@ Use case: stylized-concept. Asset type: square gaming profile avatar for a Free 
 
 Use case: stylized-concept. Asset type: square gaming profile avatar for a Free Fire-style battle royale room app. Create original premium game character portrait: an adult woman with medium brown skin, amber goggles pushed onto her forehead, sand-colored scarf, bronze tactical armor, determined friendly expression. Head and shoulders, centered, face and silhouette comfortably inside a circular crop, dark navy studio background, vivid cinematic rim lighting, polished detailed 3D game key art matching a premium avatar shop. Single character, no scene props, no weapons, no text, no letters, no logos, no watermark. Original character design.
 
+
+## Verification
+
+Published to francefaraz/avatars main in commit 8368ed0. All four raw image URLs returned HTTP 200 with image/png content type. Five changed Dart source/test files passed analysis; all eight avatar shop and purchase tests passed. The new remote-avatar test verifies a single diamond debit, remote URL persistence, ownership and restoration of the original avatar.
+
+Built and installed the updated debug APK on the connected phone, preserving its data. The new portraits and 75/100 diamond labels loaded in the collection; the existing purchased Neon Ronin remained equipped. Inspected artifacts/new-avatars.png. No new remote PNG names occur inside the APK, confirming that the four additions are not bundled. No new avatars were bought and no user diamonds were spent during this check. Temporary USB stay-awake was restored to its original value 0.
+
+This source/debug update has not been uploaded as a new Play bundle. The previously published internal release 1.1.0 (3) does not include these new catalog entries until a new app build is uploaded.
