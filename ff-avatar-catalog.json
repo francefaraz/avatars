@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "avatars": [
+    {
+      "id": "ff_shadow_viper",
+      "name": "Shadow Viper",
+      "diamondCost": 75,
+      "imageUrl": "https://raw.githubusercontent.com/francefaraz/avatars/main/ff_shadow_viper.png"
+    },
+    {
+      "id": "ff_crimson_rebel",
+      "name": "Crimson Rebel",
+      "diamondCost": 75,
+      "imageUrl": "https://raw.githubusercontent.com/francefaraz/avatars/main/ff_crimson_rebel.png"
+    },
+    {
+      "id": "ff_arctic_wolf",
+      "name": "Arctic Wolf",
+      "diamondCost": 100,
+      "imageUrl": "https://raw.githubusercontent.com/francefaraz/avatars/main/ff_arctic_wolf.png"
+    },
+    {
+      "id": "ff_desert_falcon",
+      "name": "Desert Falcon",
+      "diamondCost": 100,
+      "imageUrl": "https://raw.githubusercontent.com/francefaraz/avatars/main/ff_desert_falcon.png"
+    }
+  ]
+}

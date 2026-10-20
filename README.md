@@ -66,3 +66,9 @@ node ../downloadAvatars.js
 
 **Note:** This is a local copy of avatars for offline use. For the most up-to-date collection, please visit the original repository.
 
+
+## Original battle royale additions — October 2026
+
+Four new Free Fire-style portraits are original AI-generated artwork, separate from the alohe collection credited above. Existing images remain unchanged.
+
+See [FF_AVATARS_REPORT.md](FF_AVATARS_REPORT.md) for previews, raw GitHub URLs, generation prompts and app integration details. [ff-avatar-catalog.json](ff-avatar-catalog.json) provides reusable IDs, URLs and FFM Rooms diamond prices.
